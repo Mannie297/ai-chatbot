@@ -2,7 +2,7 @@
 
 A sophisticated AI chatbot application featuring a modern, responsive user interface with real-time chat capabilities powered by OpenAI's GPT model.
 
-![AI Chatbot Interface](./frontend/public/images/screenshots/main-interface.png)
+<img src="frontend/public/images/screenshots/main-interface.png" alt="AI Chatbot Interface" width="100%">
 
 ## ✨ Features
 
@@ -77,7 +77,7 @@ The application will be available at `http://localhost:3000`
 ## 🖼️ Interface Preview
 
 ### Chat Interface
-![Chat Interface](./frontend/public/images/screenshots/chat-interface.png)
+<img src="frontend/public/images/screenshots/chat-interface.png" alt="Chat Interface" width="100%">
 
 The chat interface features:
 - Floating chat button for easy access
@@ -87,7 +87,7 @@ The chat interface features:
 - Error handling
 
 ### Main Interface
-![Main Interface](./frontend/public/images/screenshots/main-interface.png)
+<img src="frontend/public/images/screenshots/main-interface.png" alt="Main Interface" width="100%">
 
 The main interface includes:
 - AI technology showcase
