@@ -3,7 +3,7 @@
 A sophisticated AI chatbot application featuring a modern, responsive user interface with real-time chat capabilities powered by OpenAI's GPT model.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mannie297/ai-chatbot/main/frontend/public/images/screenshots/main-interface.png" alt="AI Chatbot Interface" width="800px">
+  <img src="https://mannie297.github.io/ai-chatbot/frontend/public/images/screenshots/main-interface.png" alt="AI Chatbot Interface" width="800px">
 </div>
 
 ## ✨ Features
@@ -80,7 +80,7 @@ The application will be available at `http://localhost:3000`
 
 ### Chat Interface
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mannie297/ai-chatbot/main/frontend/public/images/screenshots/chat-interface.png" alt="Chat Interface" width="800px">
+  <img src="https://mannie297.github.io/ai-chatbot/frontend/public/images/screenshots/chat-interface.png" alt="Chat Interface" width="800px">
 </div>
 
 The chat interface features:
@@ -92,7 +92,7 @@ The chat interface features:
 
 ### Main Interface
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mannie297/ai-chatbot/main/frontend/public/images/screenshots/main-interface.png" alt="Main Interface" width="800px">
+  <img src="https://mannie297.github.io/ai-chatbot/frontend/public/images/screenshots/main-interface.png" alt="Main Interface" width="800px">
 </div>
 
 The main interface includes:
